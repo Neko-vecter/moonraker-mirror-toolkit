@@ -1,0 +1,5 @@
+{
+    "repo": "owner/repo",
+    "keep_versions": 10,
+    "base_mirror_url": "<mirrors>/repo-release"
+}

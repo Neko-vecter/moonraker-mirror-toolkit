@@ -1,8 +1,15 @@
 # moonraker-webui-mirror-toolkit
 
-## 配置参考
+## init venv
 
-以下配置基于 [tunasync](https://github.com/tuna/tunasync)
+```shell
+cd ~/mwmt
+make init
+```
+
+## config example
+
+config is based on [tunasync](https://github.com/tuna/tunasync)
 
 ### tunasync `worker.conf`
 
