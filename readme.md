@@ -1,4 +1,4 @@
-# moonraker-webui-mirror-toolkit
+# moonraker mirror toolkit
 
 ## init venv
 
