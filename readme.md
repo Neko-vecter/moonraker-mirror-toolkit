@@ -1,10 +1,12 @@
 # moonraker mirror toolkit
 
-## init venv
+## init
 
 ```shell
 cd ~/mmt
 make init
+
+chmod +x git-repo.sh
 ```
 
 ## config example
